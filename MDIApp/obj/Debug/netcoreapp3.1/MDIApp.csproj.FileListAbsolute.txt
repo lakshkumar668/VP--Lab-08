@@ -1,0 +1,17 @@
+E:\semester Final\VP\Labs\LAB 8\MDIApp\bin\Debug\netcoreapp3.1\MDIApp.exe
+E:\semester Final\VP\Labs\LAB 8\MDIApp\bin\Debug\netcoreapp3.1\MDIApp.deps.json
+E:\semester Final\VP\Labs\LAB 8\MDIApp\bin\Debug\netcoreapp3.1\MDIApp.runtimeconfig.json
+E:\semester Final\VP\Labs\LAB 8\MDIApp\bin\Debug\netcoreapp3.1\MDIApp.runtimeconfig.dev.json
+E:\semester Final\VP\Labs\LAB 8\MDIApp\bin\Debug\netcoreapp3.1\MDIApp.dll
+E:\semester Final\VP\Labs\LAB 8\MDIApp\bin\Debug\netcoreapp3.1\MDIApp.pdb
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.csprojAssemblyReference.cache
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.Form1.resources
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.csproj.GenerateResource.cache
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.AssemblyInfoInputs.cache
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.AssemblyInfo.cs
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.csproj.CoreCompileInputs.cache
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.dll
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.pdb
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.genruntimeconfig.cache
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.Form2.resources
+E:\semester Final\VP\Labs\LAB 8\MDIApp\obj\Debug\netcoreapp3.1\MDIApp.Form3.resources

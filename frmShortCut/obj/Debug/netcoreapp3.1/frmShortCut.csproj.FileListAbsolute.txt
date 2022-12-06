@@ -1,0 +1,15 @@
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\bin\Debug\netcoreapp3.1\frmShortCut.exe
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\bin\Debug\netcoreapp3.1\frmShortCut.deps.json
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\bin\Debug\netcoreapp3.1\frmShortCut.runtimeconfig.json
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\bin\Debug\netcoreapp3.1\frmShortCut.runtimeconfig.dev.json
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\bin\Debug\netcoreapp3.1\frmShortCut.dll
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\bin\Debug\netcoreapp3.1\frmShortCut.pdb
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.csprojAssemblyReference.cache
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.Form1.resources
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.csproj.GenerateResource.cache
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.AssemblyInfoInputs.cache
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.AssemblyInfo.cs
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.csproj.CoreCompileInputs.cache
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.dll
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.pdb
+E:\semester Final\VP\Labs\LAB 8\frmShortCut\obj\Debug\netcoreapp3.1\frmShortCut.genruntimeconfig.cache

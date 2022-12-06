@@ -1,0 +1,15 @@
+E:\semester Final\VP\Labs\LAB 8\dsapp\bin\Debug\netcoreapp3.1\dsapp.exe
+E:\semester Final\VP\Labs\LAB 8\dsapp\bin\Debug\netcoreapp3.1\dsapp.deps.json
+E:\semester Final\VP\Labs\LAB 8\dsapp\bin\Debug\netcoreapp3.1\dsapp.runtimeconfig.json
+E:\semester Final\VP\Labs\LAB 8\dsapp\bin\Debug\netcoreapp3.1\dsapp.runtimeconfig.dev.json
+E:\semester Final\VP\Labs\LAB 8\dsapp\bin\Debug\netcoreapp3.1\dsapp.dll
+E:\semester Final\VP\Labs\LAB 8\dsapp\bin\Debug\netcoreapp3.1\dsapp.pdb
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.csprojAssemblyReference.cache
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.Form1.resources
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.csproj.GenerateResource.cache
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.AssemblyInfoInputs.cache
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.AssemblyInfo.cs
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.csproj.CoreCompileInputs.cache
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.dll
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.pdb
+E:\semester Final\VP\Labs\LAB 8\dsapp\obj\Debug\netcoreapp3.1\dsapp.genruntimeconfig.cache
